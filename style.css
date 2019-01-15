@@ -1,0 +1,27 @@
+body,
+html {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background-color: #000;
+}
+
+.container {
+    position: relative;
+    margin: 160px 80px;
+    width: calc(100% - 160px);
+    height: calc(100% - 480px);
+    overflow: hidden;
+}
+
+.glitch {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-position: center;
+    background-size: cover;
+    background-image: url('./img/blackmirror.jpg')
+}
