@@ -6,4 +6,5 @@ Built using jQuery and [mgGlich](https://github.com/hmongouachon/mgGlitch)
 
 ### Demo
 
-![Intro](https://user-images.githubusercontent.com/39765499/51179307-04cdea00-18bd-11e9-8d01-626dc00ba36a.gif)
+![Intro](https://user-images.githubusercontent.com/39765499/51179863-a3a71600-18be-11e9-80d4-c7e6f9715cae.gif)
+
