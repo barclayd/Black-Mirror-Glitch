@@ -11,8 +11,9 @@ html {
     position: relative;
     margin: 160px 80px;
     width: calc(100% - 160px);
-    height: calc(100% - 480px);
+    height: calc(100% - 320px);
     overflow: hidden;
+    background-color: #fff;
 }
 
 .glitch {
